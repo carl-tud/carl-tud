@@ -14,8 +14,8 @@
   [C parser with documentation comment support](https://github.com/argon-project/tree-sitter-c)
 
 + *Smaller projects* <br>
-  [crypteng](https://github.com/carl-tud/crypteng) <br> Elliptic curve cryptography, Diffie-Hellman Key Exchange, Private Information Retrieval in constant time using modern CBOR Object Signing and Encryption (COSE) <br>
-  [timely-dataflow + QUIC + IPC](https://github.com/carl-tud/timely-dataflow) <br> Measuring worker orchestration performance using QUIC and shared IPC communication <br>
+  [crypteng](https://github.com/carl-tud/crypteng): Elliptic curve cryptography, Diffie-Hellman Key Exchange, Private Information Retrieval in constant time using modern CBOR Object Signing and Encryption (COSE) <br>
+  [timely-dataflow + QUIC + IPC](https://github.com/carl-tud/timely-dataflow): Measuring worker orchestration performance using QUIC and shared IPC communication <br>
   [SwiftCoAP + modular transport and messaging drivers](https://github.com/carl-tud/SwiftCoAP)
 
 #### orgs
