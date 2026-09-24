@@ -5,6 +5,13 @@
   [Source code in tree (C)](https://github.com/RIOT-OS/RIOT/tree/master/sys/net/application_layer/unicoap) <br>
   [Header generator scripts (JS)](https://github.com/carl-tud/unicoap-code-generators)
 
++ [`argon`](https://github.com/argon-project) <br>
+  An extensible documentation generator capable of supporting multiple documentation dialects, programming languages, and output formats. Supports custom workflows and actions for custom `@mycommand` tags. <br>
+  Current focus: C, Markdown, Doxygen-style documentation dialect. <br>
+  Future avenues: reStructuredText, DocC dialects; markdown, JSON output; live preview. <br>
+  [Source code (Rust)](https://github.com/argon-project/argon) <br>
+  [Markdown parser with `@` documentation tag syntax support (Rust)](https://github.com/argon-project/pulldown-cmark) <br>
+  [C parser with documentation comment support](https://github.com/argon-project/tree-sitter-c)
 
 #### orgs
 + [`RIOT`](https://riot-os.org) <br>The friendly operating system for the Internet of Things <br>
