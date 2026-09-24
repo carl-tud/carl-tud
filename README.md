@@ -13,9 +13,10 @@
   [Markdown parser with `@` documentation tag syntax support (Rust)](https://github.com/argon-project/pulldown-cmark) <br>
   [C parser with documentation comment support](https://github.com/argon-project/tree-sitter-c)
 
-+ **Cambs projects** <br>
++ *Smaller projects* <br>
   [crypteng](https://github.com/carl-tud/crypteng) <br> Elliptic curve cryptography, Diffie-Hellman Key Exchange, Private Information Retrieval in constant time using modern CBOR Object Signing and Encryption (COSE) <br>
-  [timely-dataflow QUIC + IPC](https://github.com/carl-tud/timely-dataflow) <br> Measuring worker orchestration performance using QUIC and shared IPC communication
+  [timely-dataflow + QUIC + IPC](https://github.com/carl-tud/timely-dataflow) <br> Measuring worker orchestration performance using QUIC and shared IPC communication <br>
+  [SwiftCoAP + modular transport and messaging drivers](https://github.com/carl-tud/SwiftCoAP)
 
 #### orgs
 + [`RIOT`](https://riot-os.org) <br>The friendly operating system for the Internet of Things <br>
